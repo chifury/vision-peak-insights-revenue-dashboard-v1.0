@@ -90,7 +90,9 @@ const Sidebar = ({
   </Box>;
   <div>
     <div>
-        
+        <div>
+            
+        </div>
     </div>
   </div>
 }
