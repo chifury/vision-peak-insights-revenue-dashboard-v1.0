@@ -88,6 +88,9 @@ const Sidebar = ({
         </Drawer>
     )}
   </Box>;
+  <div>
+    
+  </div>
 }
 
 export default Sidebar
